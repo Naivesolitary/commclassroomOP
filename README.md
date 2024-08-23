@@ -1,3 +1,3 @@
-# commclassroomOP
+#  Trying to understand Git and Github
 
-  Sometimes! Learning is fun!!
+ -- Let's learn git and github
